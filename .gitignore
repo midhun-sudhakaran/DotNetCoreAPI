@@ -5,3 +5,10 @@
 /.vs
 /bin/Debug/netcoreapp2.2
 /obj
+/CalcApp/Antevorta/Cacl.Business/bin/Debug
+/CalcApp/Antevorta/Cacl.Business/obj
+/CalcApp/Antevorta/Calc/.vs/Calc/v15
+/CalcApp/Antevorta/Calc/bin/Debug
+/CalcApp/Antevorta/Calc/DataAccessLibrary/obj
+/CalcApp/Antevorta/Calc/obj
+/CalcApp/Antevorta/Calc/packages/Dapper.2.0.35
